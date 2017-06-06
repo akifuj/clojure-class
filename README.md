@@ -1,2 +1,3 @@
-#Closure-class
-Closureのクラスで書いた課題
+# Closure-class
+
+Clojureのクラスで書いた課題
