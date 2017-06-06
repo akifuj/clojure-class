@@ -1,3 +1,3 @@
 # Closure-class
 
-Clojureのクラスで書いた課題
+大学のClojureのクラスの課題で書いたプログラム
